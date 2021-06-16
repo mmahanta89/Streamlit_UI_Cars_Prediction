@@ -1,0 +1,196 @@
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Acura Integra Type R 2001\00128.jpg,122,149,743,455,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Acura RL Sedan 2012\00183.jpg,27,82,618,400,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Acura TL Sedan 2012\00043.jpg,168,172,877,592,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Acura TL Type-S 2008\00022.jpg,11,65,484,304,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Acura TSX Sedan 2012\00030.jpg,56,80,594,365,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Acura ZDX Hatchback 2012\00036.jpg,73,421,1525,1114,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\AM General Hummer SUV 2000\00076.jpg,11,13,84,60,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Aston Martin V8 Vantage Convertible 2012\00239.jpg,58,160,661,442,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Aston Martin V8 Vantage Coupe 2012\00119.jpg,361,347,1189,747,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Aston Martin Virage Convertible 2012\00158.jpg,37,126,614,363,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Aston Martin Virage Coupe 2012\00326.jpg,65,130,555,318,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi 100 Sedan 1994\00082.jpg,16,14,145,106,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi 100 Wagon 1994\00070.jpg,23,22,364,260,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi A5 Coupe 2012\00302.jpg,9,30,253,167,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi R8 Coupe 2012\00309.jpg,186,355,1100,741,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi RS 4 Convertible 2008\00112.jpg,121,293,820,580,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi S4 Sedan 2007\00210.jpg,29,84,367,251,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi S4 Sedan 2012\00133.jpg,54,94,611,393,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi S5 Convertible 2012\00102.jpg,11,39,296,200,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi S5 Coupe 2012\00019.jpg,82,70,277,168,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi S6 Sedan 2011\00110.jpg,37,45,744,554,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi TT Hatchback 2011\00450.jpg,34,144,605,341,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi TT RS Coupe 2012\00049.jpg,17,139,484,335,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi TTS Coupe 2012\00149.jpg,17,84,899,420,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Audi V8 Sedan 1994\00810.jpg,58,129,516,281,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bentley Arnage Sedan 2009\00277.jpg,50,86,487,301,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bentley Continental Flying Spur Sedan 2007\00034.jpg,11,64,592,351,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bentley Continental GT Coupe 2007\00069.jpg,27,93,765,475,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bentley Continental GT Coupe 2012\00317.jpg,24,74,431,266,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bentley Continental Supersports Conv. Convertible 2012\00605.jpg,37,20,359,266,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bentley Mulsanne Sedan 2011\00159.jpg,9,210,794,489,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW 1 Series Convertible 2012\00344.jpg,25,134,618,349,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW 1 Series Coupe 2012\00148.jpg,125,17,541,330,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW 3 Series Sedan 2012\00126.jpg,58,56,477,279,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW 3 Series Wagon 2012\00039.jpg,22,39,547,250,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW 6 Series Convertible 2007\00037.jpg,27,72,591,414,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW ActiveHybrid 5 Sedan 2012\00152.jpg,307,262,987,518,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW M3 Coupe 2012\00103.jpg,82,77,1044,660,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW M5 Sedan 2010\00046.jpg,90,177,659,425,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW M6 Convertible 2010\00060.jpg,41,150,602,331,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW X3 SUV 2012\00064.jpg,21,69,286,214,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW X5 SUV 2007\00009.jpg,1,7,275,183,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW X6 SUV 2012\00018.jpg,113,66,554,369,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\BMW Z4 Convertible 2012\00612.jpg,24,33,253,170,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bugatti Veyron 16.4 Convertible 2009\00163.jpg,130,88,1086,646,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Bugatti Veyron 16.4 Coupe 2009\00117.jpg,5,42,494,298,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Buick Enclave SUV 2012\00084.jpg,200,44,518,207,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Buick Rainier SUV 2007\00462.jpg,38,28,226,164,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Buick Regal GS 2012\00558.jpg,82,71,521,369,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Buick Verano Sedan 2012\00011.jpg,30,20,438,253,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Cadillac CTS-V Sedan 2012\00016.jpg,80,116,359,250,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Cadillac Escalade EXT Crew Cab 2007\00145.jpg,1,54,572,346,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Cadillac SRX SUV 2012\00176.jpg,31,58,614,341,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Avalanche Crew Cab 2012\00044.jpg,15,58,254,195,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Camaro Convertible 2012\00143.jpg,393,316,1702,1266,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Cobalt SS 2010\00850.jpg,99,152,616,418,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Corvette Convertible 2012\00096.jpg,28,1,434,316,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Corvette Ron Fellows Edition Z06 2007\00123.jpg,18,77,617,403,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Corvette ZR1 2012\00559.jpg,20,68,269,189,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Express Cargo Van 2007\00065.jpg,6,7,482,425,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Express Van 2007\00150.jpg,84,13,418,310,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet HHR SS 2010\00010.jpg,28,55,241,177,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Impala Sedan 2007\00118.jpg,13,127,629,415,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Malibu Hybrid Sedan 2010\00220.jpg,43,164,603,355,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Malibu Sedan 2007\00231.jpg,42,58,228,160,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Monte Carlo Coupe 2007\00238.jpg,1,130,1001,608,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Silverado 1500 Classic Extended Cab 2007\00298.jpg,11,45,254,157,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Silverado 1500 Extended Cab 2012\00038.jpg,13,56,215,143,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Silverado 1500 Hybrid Crew Cab 2012\00454.jpg,14,38,241,170,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Silverado 1500 Regular Cab 2012\00047.jpg,22,174,951,604,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Silverado 2500HD Regular Cab 2012\00132.jpg,29,23,462,332,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Sonic Sedan 2012\00079.jpg,144,117,871,527,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Tahoe Hybrid SUV 2012\00427.jpg,61,82,422,302,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet TrailBlazer SS 2009\00351.jpg,37,54,367,262,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chevrolet Traverse SUV 2012\00345.jpg,41,72,1022,738,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chrysler 300 SRT-8 2010\00191.jpg,3,110,1189,686,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chrysler Aspen SUV 2009\00071.jpg,54,36,430,339,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chrysler Crossfire Convertible 2008\00520.jpg,151,121,666,411,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chrysler PT Cruiser Convertible 2008\00023.jpg,37,115,1561,1096,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chrysler Sebring Convertible 2010\00945.jpg,96,69,826,464,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Chrysler Town and Country Minivan 2012\00006.jpg,20,77,420,301,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Daewoo Nubira Wagon 2002\00088.jpg,91,11,547,328,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Caliber Wagon 2007\00623.jpg,10,56,308,189,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Caliber Wagon 2012\00015.jpg,50,103,569,403,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Caravan Minivan 1997\00048.jpg,47,95,848,622,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Challenger SRT8 2011\00090.jpg,32,91,582,360,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Charger Sedan 2012\00094.jpg,10,21,689,526,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Charger SRT-8 2009\00312.jpg,44,292,732,544,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Dakota Club Cab 2007\00029.jpg,43,67,386,340,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Dakota Crew Cab 2010\00138.jpg,6,8,156,119,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Durango SUV 2007\00256.jpg,52,90,596,362,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Durango SUV 2012\00359.jpg,25,41,588,419,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Journey SUV 2012\00349.jpg,47,77,577,404,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Magnum Wagon 2008\00100.jpg,33,70,234,164,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Ram Pickup 3500 Crew Cab 2010\00131.jpg,5,51,257,147,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Ram Pickup 3500 Quad Cab 2009\00104.jpg,1,85,576,300,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Dodge Sprinter Cargo Van 2009\00170.jpg,44,14,588,448,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Eagle Talon Hatchback 1998\00164.jpg,37,123,472,271,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ferrari 458 Italia Convertible 2012\00002.jpg,100,19,576,203,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ferrari 458 Italia Coupe 2012\00196.jpg,348,600,1148,891,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ferrari California Convertible 2012\00291.jpg,241,379,1016,731,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ferrari FF Coupe 2012\00262.jpg,68,113,542,374,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\FIAT 500 Abarth 2012\00255.jpg,77,69,285,168,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\FIAT 500 Convertible 2012\00613.jpg,37,57,261,195,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Fisker Karma Sedan 2012\00083.jpg,31,142,307,279,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford E-Series Wagon Van 2012\00013.jpg,1,42,495,313,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Edge SUV 2012\00194.jpg,104,180,916,563,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Expedition EL SUV 2009\00136.jpg,61,103,751,472,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford F-150 Regular Cab 2007\00445.jpg,21,7,272,166,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford F-150 Regular Cab 2012\00098.jpg,1,42,595,432,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford F-450 Super Duty Crew Cab 2012\00042.jpg,10,38,293,210,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Fiesta Sedan 2012\00274.jpg,48,2,249,155,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Focus Sedan 2007\00097.jpg,9,31,380,215,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Freestar Minivan 2007\00012.jpg,14,21,242,156,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford GT Coupe 2006\00212.jpg,85,222,727,424,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Mustang Convertible 2007\00024.jpg,1,26,160,89,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ford Ranger SuperCab 2011\00383.jpg,30,54,236,182,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Geo Metro Convertible 1993\00087.jpg,344,156,1352,998,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\GMC Acadia SUV 2012\00127.jpg,151,114,607,417,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\GMC Canyon Extended Cab 2012\00179.jpg,26,128,990,598,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\GMC Savana Van 2012\00381.jpg,7,37,388,219,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\GMC Terrain SUV 2012\00007.jpg,249,166,2324,1459,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\GMC Yukon Hybrid SUV 2012\00056.jpg,40,28,618,395,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Honda Accord Coupe 2012\00059.jpg,21,55,241,164,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Honda Accord Sedan 2012\00105.jpg,68,7,450,309,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Honda Odyssey Minivan 2007\00258.jpg,39,80,606,393,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Honda Odyssey Minivan 2012\00140.jpg,51,117,458,296,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\HUMMER H2 SUT Crew Cab 2009\00489.jpg,22,61,277,185,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\HUMMER H3T Crew Cab 2010\00144.jpg,22,50,447,268,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Accent Sedan 2012\00634.jpg,109,94,409,258,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Azera Sedan 2012\00295.jpg,277,118,800,369,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Elantra Sedan 2007\00014.jpg,8,63,395,287,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Elantra Touring Hatchback 2012\00415.jpg,53,109,951,700,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Genesis Sedan 2012\00051.jpg,48,32,451,300,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Santa Fe SUV 2012\00539.jpg,31,17,256,166,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Sonata Hybrid Sedan 2012\00052.jpg,24,57,286,188,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Sonata Sedan 2012\00141.jpg,12,56,398,297,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Tucson SUV 2012\00270.jpg,53,39,600,417,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Veloster Hatchback 2012\00058.jpg,109,41,548,301,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Hyundai Veracruz SUV 2012\00139.jpg,144,235,531,474,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Infiniti G Coupe IPL 2012\00330.jpg,9,15,596,228,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Infiniti QX56 SUV 2011\00236.jpg,15,18,575,245,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Isuzu Ascender SUV 2008\00106.jpg,24,33,397,225,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Jaguar XK XKR 2012\00419.jpg,52,39,548,376,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Jeep Compass SUV 2012\00225.jpg,42,27,764,460,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Jeep Grand Cherokee SUV 2012\00032.jpg,178,316,1345,1132,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Jeep Liberty SUV 2012\00173.jpg,111,97,673,377,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Jeep Patriot SUV 2012\00003.jpg,51,105,968,659,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Jeep Wrangler SUV 2012\00092.jpg,112,53,570,360,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Lamborghini Aventador Coupe 2012\00021.jpg,11,55,298,196,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Lamborghini Diablo Coupe 2001\00240.jpg,28,41,875,568,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Lamborghini Gallardo LP 570-4 Superleggera 2012\00099.jpg,47,115,920,614,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Lamborghini Reventon Coupe 2008\00285.jpg,18,152,783,455,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Land Rover LR2 SUV 2012\00388.jpg,1,8,300,182,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Land Rover Range Rover SUV 2012\00017.jpg,9,48,630,361,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Lincoln Town Car Sedan 2011\00054.jpg,6,22,254,174,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Maybach Landaulet Convertible 2012\00468.jpg,41,55,150,148,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mazda Tribute SUV 2011\00142.jpg,82,2,505,243,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\McLaren MP4-12C Coupe 2012\00172.jpg,208,347,982,571,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mercedes-Benz 300-Class Convertible 1993\00188.jpg,7,57,255,159,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mercedes-Benz C-Class Sedan 2012\00377.jpg,36,84,567,371,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mercedes-Benz E-Class Sedan 2012\00031.jpg,33,107,953,610,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mercedes-Benz S-Class Sedan 2012\00008.jpg,119,215,1153,719,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mercedes-Benz SL-Class Coupe 2009\00627.jpg,40,232,544,444,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mercedes-Benz Sprinter Van 2012\00040.jpg,109,66,907,723,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\MINI Cooper Roadster Convertible 2012\00725.jpg,61,51,490,270,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Mitsubishi Lancer Sedan 2012\00213.jpg,166,28,642,483,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Nissan 240SX Coupe 1998\00063.jpg,2,5,495,207,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Nissan Juke Hatchback 2012\00027.jpg,59,101,938,652,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Nissan Leaf Hatchback 2012\00050.jpg,63,131,950,610,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Nissan NV Passenger Van 2012\00474.jpg,22,10,647,400,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Plymouth Neon Coupe 1999\00156.jpg,217,277,1366,895,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Porsche Panamera Sedan 2012\00217.jpg,219,479,1077,808,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Ram C-V Cargo Van Minivan 2012\00080.jpg,6,99,624,381,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Rolls-Royce Ghost Sedan 2012\00712.jpg,55,195,912,613,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Rolls-Royce Phantom Drophead Coupe Convertible 2012\00203.jpg,93,215,741,415,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Rolls-Royce Phantom Sedan 2012\00431.jpg,108,68,645,379,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Scion xD Hatchback 2012\00111.jpg,85,52,379,242,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\smart fortwo Convertible 2012\00583.jpg,56,64,474,323,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Spyker C8 Convertible 2009\00162.jpg,81,19,403,259,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Spyker C8 Coupe 2009\00041.jpg,116,136,679,449,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Suzuki Aerio Sedan 2007\00001.jpg,30,52,246,147,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Suzuki Kizashi Sedan 2012\00208.jpg,105,141,676,555,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Suzuki SX4 Hatchback 2012\00066.jpg,56,136,965,561,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Suzuki SX4 Sedan 2012\00253.jpg,62,120,946,704,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Tesla Model S Sedan 2012\00005.jpg,140,151,593,339,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Toyota 4Runner SUV 2012\00101.jpg,29,87,618,421,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Toyota Camry Sedan 2012\00004.jpg,67,84,581,407,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Toyota Corolla Sedan 2012\00033.jpg,39,46,575,349,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Toyota Sequoia SUV 2012\00153.jpg,117,90,545,362,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Volkswagen Beetle Hatchback 2012\00089.jpg,82,95,970,596,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Volkswagen Golf Hatchback 1991\00026.jpg,93,20,523,371,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Volkswagen Golf Hatchback 2012\00319.jpg,50,92,256,174,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Volvo 240 Sedan 1993\00369.jpg,75,126,523,425,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Volvo C30 Hatchback 2012\00222.jpg,13,21,493,362,Car
+E:\GreatLearning\Capstone_Project\CapstoneProject_GL\data\Car Images-20210501T094840Z-001\Car Images\Test Images\Volvo XC90 SUV 2007\00028.jpg,15,93,608,408,Car
