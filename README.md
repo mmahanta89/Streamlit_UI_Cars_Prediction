@@ -1,7 +1,9 @@
 # Streamlit_UI_Cars_Prediction
 
 Object detection Model used - FRCNN
+
 Object Classsification - Resnet50
+
 UI - Streamlit
 
 - For weights we used Resnet50 weights
